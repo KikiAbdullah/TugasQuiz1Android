@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "328246250143",
+    "firebase_url": "https://recycleviewkuis.firebaseio.com",
+    "project_id": "recycleviewkuis",
+    "storage_bucket": "recycleviewkuis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328246250143:android:34916b77519295d7",
+        "android_client_info": {
+          "package_name": "com.kikirabdullah.recycleviewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328246250143-rg8nctm9ucqthcnak9060b386ldug9ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBGVX5hmYO9KE02V3-UYXLoCGi7RBRnVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
